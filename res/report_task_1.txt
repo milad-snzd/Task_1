@@ -1,0 +1,59 @@
+proj structer: -8 -5
+prev bugs: -20
+file name: -2
+margin: +9
+
+time: -90	*2
+
+----------4/10/2021
+project structure: -3
+media screen: -5
+tag atrebiute wrong knwoldege: -5
+css external not sample: -20
+
+time: -25	*1
+
+----------9/1/2021
+1-	file structure		-6
+2-	index.html		-4	
+3-	</title>a		-2
+4-	="milad.jpg"		-2
+5-	<from			-2	
+6-	"/action_page.php"	-2
+7-	id="vehicl 1"		-6
+8-	style="width:100%"	-2
+9-	<th>sajad</th>		-2
+10-	<td>age</td> --- header	-2
+time: -120	*3	
+
+--------
+1-	section				-2
+2-	css external not found		-4
+3-	remove <br>			-4
+4-	<img src="src/milad.PNG" 	-4
+
+time:	-120	*2
+
+---------------------------
+
+1-	file structure		-36
+2-	name="vehicle_4"	-8
+3-	remove <br>		-8
+4-	reformat code		-3
+5-	section			-4
+6-	table ,th , td {	-6
+7-	#ali 			-15
+8-	menu fix		-4
+9-	/* On screens that are 
+992px wide or less, the 
+background color is blue */	-2
+
+time: 	-240	*2
+----------19/9/21
+
+6-	table ,th , td {	            -6
+2-  <img width="500" height="300"   -2
+3-  margin-right: auto;             -2
+4-  img {                           -2
+
+time:   -60     *2
