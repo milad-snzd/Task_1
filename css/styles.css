@@ -1,71 +1,73 @@
-        .table {
-            border: 1px solid black;
-            border-collapse: collapse;
-            background-color: rgb(176, 224, 230);
-            text-align: center;
-        }
-        
-        .item-1 {
-            border: 1px solid black;
-            border-collapse: collapse;
-            background-color: rgb(176, 224, 230);
-            text-align: center;
-        }
-        
-        .item-2 {
-            border: 1px solid black;
-            border-collapse: collapse;
-            background-color: rgb(176, 224, 230);
-            text-align: center;
-        }
-        
-        .image {
-            display: block;
-        }
-        
-        .menu {
-            position: fixed;
-            top: 0;
-            right: 0;
-            bottom: 0;
-            left: 0;
-            width: 100%;
-            height: 20px;
-        }
-        
-        .list {
-            list-style-type: none;
-            margin: 0;
-            padding: 0;
-            overflow: hidden;
-            background-color: powderblue;
-        }
-        
-        .item {
-            float: left;
-        }
-        
-        .milad {
-            display: block;
-            color: white;
-            text-align: center;
-            padding: 14px 16px;
-            text-decoration: none;
-        }
-        
-        .milad:hover {
-            background-color: rgb(255, 166, 0);
-        }
-        
-        .body {
-            background-color: palegoldenrod;
-            color: black;
-            margin: 0;
-        }
-        
-        @media screen and (max-width: 992px) {
-            body {
-                background-color: blue;
-                color: white;
-            }
-        }
+.table {
+    border: 1px solid black;
+    border-collapse: collapse;
+    background-color: rgb(176, 224, 230);
+    text-align: center;
+}
+
+.item-1 {
+    border: 1px solid black;
+    border-collapse: collapse;
+    background-color: rgb(176, 224, 230);
+    text-align: center;
+}
+
+.item-2 {
+    border: 1px solid black;
+    border-collapse: collapse;
+    background-color: rgb(176, 224, 230);
+    text-align: center;
+}
+
+.image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.menu {
+    position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 20px;
+}
+
+.list {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: powderblue;
+}
+
+.item {
+    float: left;
+}
+
+.items {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.items:hover {
+    background-color: rgb(255, 166, 0);
+}
+
+.body {
+    background-color: palegoldenrod;
+    color: black;
+    margin: 0;
+}
+
+@media screen and (max-width: 992px) {
+    body {
+        background-color: blue;
+        color: white;
+    }
+}
