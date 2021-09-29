@@ -19,10 +19,8 @@
     text-align: center;
 }
 
-img {
+.image {
     display: block;
-    margin-left: auto;
-    margin-right: auto;
 }
 
 .menu {
@@ -35,7 +33,7 @@ img {
     height: 20px;
 }
 
-.menu ul {
+.list {
     list-style-type: none;
     margin: 0;
     padding: 0;
@@ -43,11 +41,11 @@ img {
     background-color: powderblue;
 }
 
-.menu li {
+.item {
     float: left;
 }
 
-.menu li a {
+.milad {
     display: block;
     color: white;
     text-align: center;
@@ -55,11 +53,11 @@ img {
     text-decoration: none;
 }
 
-.menu li a:hover {
+.milad:hover {
     background-color: rgb(255, 166, 0);
 }
 
-body {
+.body {
     background-color: palegoldenrod;
     color: black;
     margin: 0;
